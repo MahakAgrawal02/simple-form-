@@ -1,0 +1,44 @@
+body{
+    background: image.png;
+}
+.form-wrap{
+    width: 320px; 
+    background-color: #bbbae7;
+    padding: 30px;
+    box-sizing: border-box;
+    position: fixed;
+    left: 42%;
+    top: 16%;
+}
+.heading{
+    text-align: center;
+    color: rgba(5, 13, 92, 0.61);
+
+}
+.input{
+    text-align: center;
+    background: none;
+    width: 100%;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    background: rgb(164, 169, 240);
+    color: rgb(11, 10, 95);
+}    
+.inputbutton{
+    text-align: center;
+    background: none;
+    width: 100%;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    background: rgb(140, 134, 223);
+    cursor: pointer;
+}
+.img{
+    width: 100%;
+}
